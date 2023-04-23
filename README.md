@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rlapuz
-- 👀 I’m interested in Fullstack Developer
+- 👀 I’m interested in Fullstack Web Developer
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on my Capstone Project
 - 📫 How to reach me email me raymundlapuz13@gmail.com
