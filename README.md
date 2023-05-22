@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rlapuz
 - 👀 I’m interested in Fullstack Web Developer
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- 🌱 I’m currently Mern Stack
 - 💞️ I’m looking to collaborate on my Capstone Project
 - 📫 How to reach me email me raymundlapuz13@gmail.com
 
